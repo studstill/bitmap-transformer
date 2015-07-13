@@ -1,0 +1,14 @@
+{
+  "camelcase": true,
+  "eqeqeq": true,
+  "mocha": true,
+  "node": true,
+    "globals": {
+      "describe": true,
+      "it": true,
+      "before": true,
+      "after": true,
+      "beforeEach": true,
+      "afterEach": true
+    }
+}
