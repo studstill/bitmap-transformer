@@ -1,6 +1,6 @@
-This repo contains my solution for the bitmap conversion assignment.
+##This repo contains my solution for the bitmap conversion assignment.
 
-*** HOW TO USE *****
+#HOW TO USE
 
 - Clone this repo to your computer
 
@@ -8,13 +8,13 @@ This repo contains my solution for the bitmap conversion assignment.
 
 - To implement transformations:
 
-  > node filename option
+  `node [filename] [option]`
 
   - transformWP.js OPTIONS:
-  -- invert, grayscale
+   [invert], [grayscale]
   - transformNP.js OPTIONS:
-  -- invert, grayscale, flip
+   [invert], [grayscale], [flip]
 
 - To test
 
-  > mocha
+  `mocha`
